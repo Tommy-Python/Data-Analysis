@@ -9,8 +9,8 @@ Used libaries:
 
 
 <p align="center"> 
-<img src="data_preprocessing/img1.png"> 
-<img src="data_preprocessing/img2.png"> 
+<img src="img1.png"> 
+<img src="img2.png"> 
 </p>
 
 [Link to the notebook](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/data_preprocessing/data-preprocessing.ipynb)
