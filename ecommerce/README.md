@@ -23,16 +23,18 @@ Used libaries:
 - datetime
 - reduce
 
+[Link to the notebook](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/ecommerce/ecommerce.ipynb)
+
 <p align="center"> 
-<img src="ecommerce/img1.png"> 
-<img src="ecommerce/img2.png"> 
-<img src="ecommerce/img3.png"> 
-<img src="ecommerce/img4.png"> 
-<img src="ecommerce/img5.png"> 
-<img src="ecommerce/img6.png"> 
-<img src="ecommerce/img7.png"> 
-<img src="ecommerce/img8.png"> 
-<img src="ecommerce/img9.png"> 
+<img src="img1.png"> 
+<img src="img2.png"> 
+<img src="img3.png"> 
+<img src="img4.png"> 
+<img src="img5.png"> 
+<img src="img6.png"> 
+<img src="img7.png"> 
+<img src="img8.png"> 
+<img src="img9.png"> 
 
 </p>
 
