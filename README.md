@@ -13,7 +13,7 @@ Used libaries:
 - Numpy
 - Pandas
 
-[Link to the full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/data_preprocessing/README.md)
+[Link to the full project](https://tommy-python.github.io/Data-Analysis-Portfolio/data_preprocessing/)
 [Link to the notebook](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/data_preprocessing/data-preprocessing.ipynb)
 
 
@@ -33,7 +33,8 @@ Used libaries:
 - Seaborn
 - Datetime 
 
-[Link to the full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/ab_test/README.md)
+
+[Link to the full project](https://tommy-python.github.io/Data-Analysis-Portfolio/ab_test/)
 [Link to the notebook](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/ab_test/AB-Test.ipynb)
 
 # Project: Business Analytics
@@ -51,7 +52,8 @@ Used libaries:
 - Warnings
 - Seaborn
 
-[Link to the full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/ba/README.md)
+
+[Link to the full project](https://tommy-python.github.io/Data-Analysis-Portfolio/ba/)
 [Link to the notebook](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/ba/BA.ipynb)
 
 # Project: Ecommerce
@@ -79,7 +81,8 @@ Used libaries:
 - reduce
 
 
-[Link to the full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/ecommerce/ecommerce.README.md)
+
+[Link to the full project](https://tommy-python.github.io/Data-Analysis-Portfolio/ecommerce/)
 [Link to the notebook](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/ecommerce/ecommerce.ipynb)
 
 # Project: EDA
@@ -97,7 +100,8 @@ Used libaries:
 - datetime
 - reduce
 
-[Link to the full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/eda/README.md)
+
+[Link to the full project](https://tommy-python.github.io/Data-Analysis-Portfolio/eda/)
 [Link to the notebook](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/eda/EDA.ipynb)
 
 # Project: Machine Learning
@@ -119,9 +123,9 @@ Used libaries:
 - datetime
 - reduce
 - sklearn
-</p>
 
-[Link to the full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/ml_churnrate/README.md)
+
+[Link to the full project](https://tommy-python.github.io/Data-Analysis-Portfolio/ml_churnrate/)
 [Link to the notebook](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/ml_churnrate/ML-Churnrate.ipynb)
 
 # Project: SDA
@@ -138,7 +142,7 @@ Used libaries:
 - matplotlib
 
 
-[Link to the full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/sda/README.md)
+[Link to the full project](https://tommy-python.github.io/Data-Analysis-Portfolio/sda/)
 [Link to the notebook](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/sda/SDA.ipynb)
 
 # Project: SQL
@@ -149,6 +153,6 @@ Used libaries:
 - SQAlchemy
 - Pandas
 
-[Link to the full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/sql/README.md)
+[Link to the full project](https://tommy-python.github.io/Data-Analysis-Portfolio/sql/)
 [Link to the notebook](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/sql/SQL.ipynb)
 
