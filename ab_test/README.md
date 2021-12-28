@@ -12,6 +12,8 @@ Used libaries:
 - Seaborn
 - Datetime 
 
+[Link to the notebook](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/ab_test/AB-Test.ipynb)
+
 <p align="center"> 
 <img src="img1.png"> 
 <img src="img2.png">
