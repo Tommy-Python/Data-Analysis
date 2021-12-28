@@ -119,7 +119,6 @@ Used libaries:
 - datetime
 - reduce
 - sklearn
-</p>
 
 [Link to the full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/ml_churnrate/README.md)
 [Link to the notebook](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/ml_churnrate/ML-Churnrate.ipynb)
