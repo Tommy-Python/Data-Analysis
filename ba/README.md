@@ -17,6 +17,8 @@ How much money do they bring? (LTV)
 How much money was spent? Overall/per source/over time
 How much did customer acquisition from each of the sources cost?
 How worthwhile where the investments? (ROI)
+
+[Link to the notebook](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/ba/BA.ipynb)
   
 Used libaries:
 - Numpy
