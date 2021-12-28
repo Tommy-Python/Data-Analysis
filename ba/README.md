@@ -17,6 +17,8 @@ How much money do they bring? (LTV)
 How much money was spent? Overall/per source/over time
 How much did customer acquisition from each of the sources cost?
 How worthwhile where the investments? (ROI)
+
+[Link to the notebook](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/ba/BA.ipynb)
   
 Used libaries:
 - Numpy
@@ -28,18 +30,18 @@ Used libaries:
 - Seaborn
 
 <p align="center"> 
-<img src="ba/img1.png"> 
-<img src="ba/img2.png"> 
-<img src="ba/img3.png"> 
-<img src="ba/img4.png"> 
-<img src="ba/img5.png"> 
-<img src="ba/img6.png"> 
-<img src="ba/img7.png"> 
-<img src="ba/img8.png"> 
-<img src="ba/img9.png"> 
-<img src="ba/img10.png">
-<img src="ba/img11.png"> 
-<img src="ba/img12.png"> 
+<img src="img1.png"> 
+<img src="img2.png"> 
+<img src="img3.png"> 
+<img src="img4.png"> 
+<img src="img5.png"> 
+<img src="img6.png"> 
+<img src="img7.png"> 
+<img src="img8.png"> 
+<img src="img9.png"> 
+<img src="img10.png">
+<img src="img11.png"> 
+<img src="img12.png"> 
 </p>
 
 
