@@ -6,6 +6,8 @@ Used libaries:
 - SQAlchemy
 - Pandas
 
+[Link to the notebook](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/sql/SQL.ipynb)
+
 <p align="center"> 
 <img src="sql/img1.png"> 
 <img src="sql/img2.png"> 
@@ -13,5 +15,5 @@ Used libaries:
 <img src="sql/img4.png"> 
 </p>
 
-[Link to the full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/sql/README.md)
+
 [Link to the notebook](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/sql/SQL.ipynb)
