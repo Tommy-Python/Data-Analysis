@@ -21,7 +21,7 @@ Used libaries:
 <img src="data_preprocessing/img2.png"> 
 </p>
 
-[Link to full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/Data-Preprocessing/data-preprocessing.ipynb)
+[Link to full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/data_preprocessing/data-preprocessing.ipynb)
 
 # Project: AB-Test
 
@@ -46,7 +46,7 @@ Used libaries:
 <img src="ab_test/img4.png">
 </p>
 
-[Link to full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/AB-Test/AB-Test.ipynb)
+[Link to full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/ab_test/AB-Test.ipynb)
 
 # Project: Business Analytics
 
@@ -92,7 +92,7 @@ Used libaries:
 <img src="ba/img12.png"> 
 </p>
 
-[Link to full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/BA/BA.ipynb)
+[Link to full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/ba/BA.ipynb)
 
 # Project: Ecommerce
 
@@ -132,7 +132,7 @@ Used libaries:
 
 </p>
 
-[Link to full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/Ecommerce/ecommerce.ipynb)
+[Link to full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/ecommerce/ecommerce.ipynb)
 
 # Project: EDA
 You're an analyst at Crankshaft List. Hundreds of free advertisements for vehicles are published on your site every day. You need to study data collected over the last few years and determine which factors influence the price of a vehicle.
@@ -159,7 +159,7 @@ Used libaries:
 
 </p>
 
-[Link to full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/EDA/EDA.ipynb)
+[Link to full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/eda/EDA.ipynb)
 
 # Project: Machine Learning
 The gym chain Model Fitness is developing a customer interaction strategy based on analytical data.
@@ -201,7 +201,7 @@ Used libaries:
 <img src="ml_churnrate/img8.png">
 </p>
 
-[Link to full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/ML-Churnrate/ML-Churnrate.ipynb)
+[Link to full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/ml_churnrate/ML-Churnrate.ipynb)
 
 # Project: SDA
 You work as an analyst for the telecom operator Megaline. The company offers its clients two prepaid plans, Surf and Ultimate. The commercial department wants to know which of the plans brings in more revenue in order to adjust the advertising budget.
@@ -226,7 +226,7 @@ Used libaries:
 <img src="sda/img7.png"> 
 </p>
 
-[Link to full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/SDA/SDA.ipynb)
+[Link to full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/sda/SDA.ipynb)
 
 # Project: SQL
 
@@ -243,5 +243,5 @@ Used libaries:
 <img src="sql/img4.png"> 
 </p>
 
-[Link to full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/SQL/SQL.ipynb)
+[Link to full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/sql/SQL.ipynb)
 
