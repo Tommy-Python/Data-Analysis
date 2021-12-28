@@ -27,15 +27,17 @@ Used libaries:
 - reduce
 - sklearn
 
+[Link to the notebook](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/ml_churnrate/ML-Churnrate.ipynb)
+
 <p align="center"> 
-<img src="ml_churnrate/img1.png"> 
-<img src="ml_churnrate/img2.png"> 
-<img src="ml_churnrate/img3.png"> 
-<img src="ml_churnrate/img4.png"> 
-<img src="ml_churnrate/img5.png"> 
-<img src="ml_churnrate/img6.png"> 
-<img src="ml_churnrate/img7.png"> 
-<img src="ml_churnrate/img8.png">
+<img src="img1.png"> 
+<img src="img2.png"> 
+<img src="img3.png"> 
+<img src="img4.png"> 
+<img src="img5.png"> 
+<img src="img6.png"> 
+<img src="img7.png"> 
+<img src="img8.png">
 </p>
 
 [Link to the notebook](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/ml_churnrate/ML-Churnrate.ipynb)
