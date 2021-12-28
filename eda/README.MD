@@ -13,13 +13,15 @@ Used libaries:
 - datetime
 - reduce
 
+[Link to the notebook](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/eda/EDA.ipynb)
+
 <p align="center"> 
-<img src="eda/img1.png"> 
-<img src="eda/img2.png">
-<img src="eda/img3.png"> 
-<img src="eda/img4.png"> 
-<img src="eda/img5.png"> 
-<img src="eda/img6.png"> 
+<img src="img1.png"> 
+<img src="img2.png">
+<img src="img3.png"> 
+<img src="img4.png"> 
+<img src="img5.png"> 
+<img src="img6.png"> 
 
 </p>
 
