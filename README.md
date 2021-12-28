@@ -13,15 +13,9 @@ Used libaries:
 - Numpy
 - Pandas
 
+[Link to the full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/data_preprocessing/README.md)
+[Link to the notebook](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/data_preprocessing/data-preprocessing.ipynb)
 
-
-
-<p align="center"> 
-<img src="data_preprocessing/img1.png"> 
-<img src="data_preprocessing/img2.png"> 
-</p>
-
-[Link to full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/data_preprocessing/data-preprocessing.ipynb)
 
 # Project: AB-Test
 
@@ -39,35 +33,15 @@ Used libaries:
 - Seaborn
 - Datetime 
 
-<p align="center"> 
-<img src="ab_test/img1.png"> 
-<img src="ab_test/img2.png">
-<img src="ab_test/img3.png">
-<img src="ab_test/img4.png">
-</p>
-
-[Link to full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/ab_test/AB-Test.ipynb)
+[Link to the full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/ab_test/README.md)
+[Link to the notebook](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/ab_test/AB-Test.ipynb)
 
 # Project: Business Analytics
 
 You've done beautifully in the Practicum course, and you've been offered an internship in the analytical department at Yandex.Afisha. Your first task is to help optimize marketing expenses.
+(Cohort Analysis)
 
-## Goal:
-- Product:
-How many people use it every day, week, and month?
-How many sessions are there per day? (One user might have more than one session.)
-What is the length of each session?
-How often do users come back?
-- Sales:
-When do people start buying? (In KPI analysis, we're usually interested in knowing the time that elapses between registration and conversion — when the user becomes a customer. For example, if registration and the first purchase occur on the same day, the user might fall into category Conversion 0d. If the first purchase happens the next day, it will be Conversion 1d. You can use any approach that lets you compare the conversions of different cohorts, so that you can determine which cohort, or marketing channel, is most effective.)
-How many orders do they make during a given period of time?
-What is the average purchase size?
-How much money do they bring? (LTV)
-- Marketing:
-How much money was spent? Overall/per source/over time
-How much did customer acquisition from each of the sources cost?
-How worthwhile where the investments? (ROI)
-  
+
 Used libaries:
 - Numpy
 - Pandas
@@ -77,26 +51,11 @@ Used libaries:
 - Warnings
 - Seaborn
 
-<p align="center"> 
-<img src="ba/img1.png"> 
-<img src="ba/img2.png"> 
-<img src="ba/img3.png"> 
-<img src="ba/img4.png"> 
-<img src="ba/img5.png"> 
-<img src="ba/img6.png"> 
-<img src="ba/img7.png"> 
-<img src="ba/img8.png"> 
-<img src="ba/img9.png"> 
-<img src="ba/img10.png">
-<img src="ba/img11.png"> 
-<img src="ba/img12.png"> 
-</p>
-
-[Link to full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/ba/BA.ipynb)
+[Link to the full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/ba/README.md)
+[Link to the notebook](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/ba/BA.ipynb)
 
 # Project: Ecommerce
 
-## Goal
 
 What do you want to achieve and why?
 - Analyze the product range, determine relationships and trends for a good item overview and recommendations
@@ -119,20 +78,9 @@ Used libaries:
 - datetime
 - reduce
 
-<p align="center"> 
-<img src="ecommerce/img1.png"> 
-<img src="ecommerce/img2.png"> 
-<img src="ecommerce/img3.png"> 
-<img src="ecommerce/img4.png"> 
-<img src="ecommerce/img5.png"> 
-<img src="ecommerce/img6.png"> 
-<img src="ecommerce/img7.png"> 
-<img src="ecommerce/img8.png"> 
-<img src="ecommerce/img9.png"> 
 
-</p>
-
-[Link to full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/ecommerce/ecommerce.ipynb)
+[Link to the full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/ecommerce/ecommerce.README.md)
+[Link to the notebook](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/ecommerce/ecommerce.ipynb)
 
 # Project: EDA
 You're an analyst at Crankshaft List. Hundreds of free advertisements for vehicles are published on your site every day. You need to study data collected over the last few years and determine which factors influence the price of a vehicle.
@@ -149,17 +97,8 @@ Used libaries:
 - datetime
 - reduce
 
-<p align="center"> 
-<img src="eda/img1.png"> 
-<img src="eda/img2.png">
-<img src="eda/img3.png"> 
-<img src="eda/img4.png"> 
-<img src="eda/img5.png"> 
-<img src="eda/img6.png"> 
-
-</p>
-
-[Link to full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/eda/EDA.ipynb)
+[Link to the full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/eda/README.md)
+[Link to the notebook](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/eda/EDA.ipynb)
 
 # Project: Machine Learning
 The gym chain Model Fitness is developing a customer interaction strategy based on analytical data.
@@ -167,15 +106,6 @@ One of the most common problems gyms and other services face is customer churn. 
 Churn indicators vary from field to field. If a user buys from an online store rarely but regularly, you can't say they're a runaway. But if for two weeks they haven't opened a channel that's updated daily, that's a reason to worry: your follower might have gotten bored and left you.
 For a gym, it makes sense to say a customer has left if they don't come for a month. Of course, it's possible they're in Cancun and will resume their visits when they return, but's that's not a typical case. Usually, if a customer joins, comes a few times, then disappears, they're unlikely to come back.
 In order to fight churn, Model Fitness has digitized a number of its customer profiles. Your task is to analyze them and come up with a customer retention strategy.
-
-## Goal:
-Learn to predict the probability of churn (for the upcoming month) for each customer
-Draw up typical user portraits: select the most outstanding groups and describe their main features
-Analyze the factors that impact churn most
-Draw basic conclusions and develop recommendations on how to improve customer service:
-Identify target groups
-Suggest measures to cut churn
-Describe any other patterns you see with respect to interaction with customers
 
 Used libaries:
 - Numpy
@@ -189,19 +119,10 @@ Used libaries:
 - datetime
 - reduce
 - sklearn
-
-<p align="center"> 
-<img src="ml_churnrate/img1.png"> 
-<img src="ml_churnrate/img2.png"> 
-<img src="ml_churnrate/img3.png"> 
-<img src="ml_churnrate/img4.png"> 
-<img src="ml_churnrate/img5.png"> 
-<img src="ml_churnrate/img6.png"> 
-<img src="ml_churnrate/img7.png"> 
-<img src="ml_churnrate/img8.png">
 </p>
 
-[Link to full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/ml_churnrate/ML-Churnrate.ipynb)
+[Link to the full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/ml_churnrate/README.md)
+[Link to the notebook](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/ml_churnrate/ML-Churnrate.ipynb)
 
 # Project: SDA
 You work as an analyst for the telecom operator Megaline. The company offers its clients two prepaid plans, Surf and Ultimate. The commercial department wants to know which of the plans brings in more revenue in order to adjust the advertising budget.
@@ -216,17 +137,9 @@ Used libaries:
 - reduce
 - matplotlib
 
-<p align="center"> 
-<img src="sda/img1.png">
-<img src="sda/img2.png"> 
-<img src="sda/img3.png"> 
-<img src="sda/img4.png"> 
-<img src="sda/img5.png"> 
-<img src="sda/img6.png"> 
-<img src="sda/img7.png"> 
-</p>
 
-[Link to full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/sda/SDA.ipynb)
+[Link to the full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/sda/README.md)
+[Link to the notebook](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/sda/SDA.ipynb)
 
 # Project: SQL
 
@@ -236,12 +149,6 @@ Used libaries:
 - SQAlchemy
 - Pandas
 
-<p align="center"> 
-<img src="sql/img1.png"> 
-<img src="sql/img2.png"> 
-<img src="sql/img3.png"> 
-<img src="sql/img4.png"> 
-</p>
-
-[Link to full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/sql/SQL.ipynb)
+[Link to the full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/sql/README.md)
+[Link to the notebook](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/sql/SQL.ipynb)
 
