@@ -5,7 +5,7 @@ Used libaries:
 - Numpy
 - Pandas
 
-
+[Link to the notebook](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/data_preprocessing/data-preprocessing.ipynb)
 
 
 <p align="center"> 
