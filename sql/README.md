@@ -9,10 +9,10 @@ Used libaries:
 [Link to the notebook](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/sql/SQL.ipynb)
 
 <p align="center"> 
-<img src="sql/img1.png"> 
-<img src="sql/img2.png"> 
-<img src="sql/img3.png"> 
-<img src="sql/img4.png"> 
+<img src="img1.png"> 
+<img src="img2.png"> 
+<img src="img3.png"> 
+<img src="img4.png"> 
 </p>
 
 
