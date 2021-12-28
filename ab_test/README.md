@@ -13,10 +13,10 @@ Used libaries:
 - Datetime 
 
 <p align="center"> 
-<img src="ab_test/img1.png"> 
-<img src="ab_test/img2.png">
-<img src="ab_test/img3.png">
-<img src="ab_test/img4.png">
+<img src="img1.png"> 
+<img src="img2.png">
+<img src="img3.png">
+<img src="img4.png">
 </p>
 
 
