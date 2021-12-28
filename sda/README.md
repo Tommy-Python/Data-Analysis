@@ -11,14 +11,16 @@ Used libaries:
 - reduce
 - matplotlib
 
+[Link to the notbook](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/sda/SDA.ipynb)
+
 <p align="center"> 
-<img src="sda/img1.png">
-<img src="sda/img2.png"> 
-<img src="sda/img3.png"> 
-<img src="sda/img4.png"> 
-<img src="sda/img5.png"> 
-<img src="sda/img6.png"> 
-<img src="sda/img7.png"> 
+<img src="img1.png">
+<img src="img2.png"> 
+<img src="img3.png"> 
+<img src="img4.png"> 
+<img src="img5.png"> 
+<img src="img6.png"> 
+<img src="img7.png"> 
 </p>
 
 [Link to the notbook](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/sda/SDA.ipynb)
