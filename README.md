@@ -17,8 +17,8 @@ Used libaries:
 
 
 <p align="center"> 
-<img src=data_preprocessing/img1.png> 
-<img src=data_preprocessing/img2.png> 
+<img src="data_preprocessing/img1.png"> 
+<img src="data_preprocessing/img2.png"> 
 </p>
 
 [Link to full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/Data-Preprocessing/data-preprocessing.ipynb)
@@ -40,10 +40,10 @@ Used libaries:
 - Datetime 
 
 <p align="center"> 
-<img src=ab_test/img1.png> 
-<img src=ab_test/img2.png>
-<img src=ab_test/img3.png>
-<img src=ab_test/img4.png>
+<img src="ab_test/img1.png"> 
+<img src="ab_test/img2.png">
+<img src="ab_test/img3.png">
+<img src="ab_test/img4.png">
 </p>
 
 [Link to full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/AB-Test/AB-Test.ipynb)
@@ -78,18 +78,18 @@ Used libaries:
 - Seaborn
 
 <p align="center"> 
-<img src=ba/img1.png> 
-<img src=ba/img2.png> 
-<img src=ba/img3.png> 
-<img src=ba/img4.png> 
-<img src=ba/img5.png> 
-<img src=ba/img6.png> 
-<img src=ba/img7.png> 
-<img src=ba/img8.png> 
-<img src=ba/img9.png> 
-<img src=ba/img10.png>
-<img src=ba/img11.png> 
-<img src=ba/img12.png> 
+<img src="ba/img1.png"> 
+<img src="ba/img2.png"> 
+<img src="ba/img3.png"> 
+<img src="ba/img4.png"> 
+<img src="ba/img5.png"> 
+<img src="ba/img6.png"> 
+<img src="ba/img7.png"> 
+<img src="ba/img8.png"> 
+<img src="ba/img9.png"> 
+<img src="ba/img10.png">
+<img src="ba/img11.png"> 
+<img src="ba/img12.png"> 
 </p>
 
 [Link to full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/BA/BA.ipynb)
@@ -120,15 +120,15 @@ Used libaries:
 - reduce
 
 <p align="center"> 
-<img src=ecommerce/img1.png> 
-<img src=ecommerce/img2.png> 
-<img src=ecommerce/img3.png> 
-<img src=ecommerce/img4.png> 
-<img src=ecommerce/img5.png> 
-<img src=ecommerce/img6.png> 
-<img src=ecommerce/img7.png> 
-<img src=ecommerce/img8.png> 
-<img src=ecommerce/img9.png> 
+<img src="ecommerce/img1.png"> 
+<img src="ecommerce/img2.png"> 
+<img src="ecommerce/img3.png"> 
+<img src="ecommerce/img4.png"> 
+<img src="ecommerce/img5.png"> 
+<img src="ecommerce/img6.png"> 
+<img src="ecommerce/img7.png"> 
+<img src="ecommerce/img8.png"> 
+<img src="ecommerce/img9.png"> 
 
 </p>
 
@@ -150,12 +150,12 @@ Used libaries:
 - reduce
 
 <p align="center"> 
-<img src=eda/img1.png> 
-<img src=eda/img2.png>
-<img src=eda/img3.png> 
-<img src=eda/img4.png> 
-<img src=eda/img5.png> 
-<img src=eda/img6.png> 
+<img src="eda/img1.png"> 
+<img src="eda/img2.png">
+<img src="eda/img3.png"> 
+<img src="eda/img4.png"> 
+<img src="eda/img5.png"> 
+<img src="eda/img6.png"> 
 
 </p>
 
@@ -191,14 +191,14 @@ Used libaries:
 - sklearn
 
 <p align="center"> 
-<img src=ml_churnrate/img1.png> 
-<img src=ml_churnrate/img2.png> 
-<img src=ml_churnrate/img3.png> 
-<img src=ml_churnrate/img4.png> 
-<img src=ml_churnrate/img5.png> 
-<img src=ml_churnrate/img6.png> 
-<img src=ml_churnrate/img7.png> 
-<img src=ml_churnrate/img8.png>
+<img src="ml_churnrate/img1.png"> 
+<img src="ml_churnrate/img2.png"> 
+<img src="ml_churnrate/img3.png"> 
+<img src="ml_churnrate/img4.png"> 
+<img src="ml_churnrate/img5.png"> 
+<img src="ml_churnrate/img6.png"> 
+<img src="ml_churnrate/img7.png"> 
+<img src="ml_churnrate/img8.png">
 </p>
 
 [Link to full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/ML-Churnrate/ML-Churnrate.ipynb)
@@ -217,13 +217,13 @@ Used libaries:
 - matplotlib
 
 <p align="center"> 
-<img src=sda/img1.png>
-<img src=sda/img2.png> 
-<img src=sda/img3.png> 
-<img src=sda/img4.png> 
-<img src=sda/img5.png> 
-<img src=sda/img6.png> 
-<img src=sda/img7.png> 
+<img src="sda/img1.png">
+<img src="sda/img2.png"> 
+<img src="sda/img3.png"> 
+<img src="sda/img4.png"> 
+<img src="sda/img5.png"> 
+<img src="sda/img6.png"> 
+<img src="sda/img7.png"> 
 </p>
 
 [Link to full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/SDA/SDA.ipynb)
@@ -238,9 +238,9 @@ Used libaries:
 
 <p align="center"> 
 <img src="sql/img1.png"> 
-<img src=sql/img2.png> 
-<img src=sql/img3.png> 
-<img src=sql/img4.png> 
+<img src="sql/img2.png"> 
+<img src="sql/img3.png"> 
+<img src="sql/img4.png"> 
 </p>
 
 [Link to full project](https://github.com/Tommy-Python/Data-Analysis-Portfolio/blob/main/SQL/SQL.ipynb)
